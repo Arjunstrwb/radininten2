@@ -1,5 +1,12 @@
 <thead>
 					<tr>
+
+				<form method="get">
+					<h4>Pilih Tanggal Urut</h4>
+					<input type="date" name="tanggal_dokumen">
+					<input type="submit" value="Filter">
+				</form>
+				<br/> <br/>
 						<th>No</th>
                         <th><center>Nomor Dokumen</th></center>
 						<th><center>Nama Dokumen</th></center>
