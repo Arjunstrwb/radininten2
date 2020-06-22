@@ -38,10 +38,8 @@
 		<form action="cek_login.php" method="post">
 		<center>
 		<br>
-		<br>
-			<h4>SISTEM INFORMASI LAPORAN BULANAN UNIT KAMPEN </h4>
-			<label>(SILABPEN)</label>
-			</br>
+			<h5>SISTEM INFORMASI</h5>
+			<h5>LAPORAN BULANAN UNIT KEAMANAN PENERBANGAN DAN PELAYANAN DARURAT </h5>
 			</br>
 		</center>
 			<br>
